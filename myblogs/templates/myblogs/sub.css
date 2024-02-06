@@ -1,0 +1,13 @@
+body {
+    /* Replace the colors and directions as needed */
+    background: linear-gradient(to right, #eb6256, #ea3a1b);
+    /* You can also use angle values like 45deg instead of directions */
+    /* background: linear-gradient(45deg, #ff9966, #ff5e62); */
+    
+    /* Add more styles if necessary */
+    margin: 0;
+    padding: 0;
+    font-family: 'Arial', sans-serif;
+    /* color: #ffffff; Text color on the gradient background */
+  }
+  
